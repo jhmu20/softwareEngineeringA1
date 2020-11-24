@@ -26,6 +26,6 @@ public class test {
         testStudent.addCourse(testCourse);
     }
 
-    
+
 }
 
